@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "sourceMap": true,
+      "baseUrl": "src",
+      "jsx": "react-jsx",
+      "esModuleInterop": true,
+      "paths": {
+        "@jumbo*": ["@jumbo*"]
+      }
+      
+  },
+  "exclude": [
+      "node_modules"
+  ],
+  "include": [
+    "src",
+    "src/declaration.d.ts",
+  ]
+
+ }

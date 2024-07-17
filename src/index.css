@@ -1,0 +1,78 @@
+html {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.toast-message-success {
+    font-size: 13px !important;
+    background-color: #3BD2A2 !important;
+    /* background-color: #34B88E !important; */
+  }
+
+.toast-message {
+font-size: 13px !important;
+}
+
+/* Navbar */
+.MuiToolbar-root, .MuiToolbar-gutters, .MuiToolbar-regular, .css-xebciq-MuiToolbar-root {
+    /* background-color: #222D45 !important; */
+    /* background-color: #EFEFEF !important; */
+    background-color: white !important;
+    /* box-shadow: 0 0.5rem 1.25rem rgba(236, 236, 236, 8.175) !important; */
+    /* box-shadow: 0 0.5rem 1.25rem rgba(115, 82, 199, 0.175) !important; */
+}
+
+/* Div donde se montan los componentes */
+.css-m7fmz7 {
+    padding: 10px !important;
+}
+
+/* Confing Theme Color Hidden */
+.data-gr-ext-installed {
+    overflow: hidden !important;
+}
+
+.MuiButtonBase-root, .MuiFab-root, .MuiFab-circular, .MuiFab-sizeMedium, 
+.MuiFab-primary, .MuiFab-root, .MuiFab-circular, .MuiFab-sizeMedium, .MuiFab-primary, 
+.css-1setd6i-MuiButtonBase-root-MuiFab-root {
+    /* display: none !important; */
+}
+
+/* Rueda de configuracion de temas */
+.MuiFab-root {
+    display: none !important;
+}
+
+.css-heg063-MuiTabs-flexContainer {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr 1fr !important;
+}
+
+/*.MuiTabs-root {
+    margin: 0 !important;
+    padding: 0 !important;
+} 
+.css-tkn350-MuiTabs-root {
+    margin: 0 !important;
+    padding: 0 !important;
+}*/
+
+.colores {
+    color: #D73D32;
+    color: #FFF120;
+    color: #00C3F3;
+    color: #2D5F9A;
+    color: #0366D6;
+} 
+
+/* CABECERA DE LA TABLA PRODUCTOS, TEXTBOX DE BUSCAR */
+.gMzYpg {
+    padding: 4px 0px 4px 0px !important;
+}
